@@ -1,7 +1,7 @@
 
 
 /*
-Some tools for other programs.
+Some tools for java programs.
  */
 
  // @author narss
